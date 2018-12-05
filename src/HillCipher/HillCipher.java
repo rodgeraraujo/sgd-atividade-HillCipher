@@ -11,7 +11,7 @@ public class HillCipher {
 		// cria um novo objeto para pegar os valores da chave e mensagem
 		// baseados em arquios .txt
 		Key inKey = new Key("keyFile.txt");
-		Message message = new Message("fileToEncrypt.txt",inKey);
+		Message message = new Message("textFileToEncrypt.txt",inKey);
 		
 		// imprime a chave
 		//inKey.printKey();
