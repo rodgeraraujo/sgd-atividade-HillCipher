@@ -4,7 +4,11 @@
 * Rogério Araujo
 * Fernanda Veira
 
-## Run:
+## Run from terminal:
 ``` 
 sh run.sh 
+``` 
+## Run from intellijIDEA:
+``` 
+open project and run 
 ``` 
